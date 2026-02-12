@@ -5,12 +5,19 @@
 This Power BI project analyzes the sales performance of an e-commerce business using two CSV datasets – Orders and Details
 
 The dashboard provides interactive insights into:
+
 #Total Sales
+
 #Total Profit
+
 #Quantity Sold
+
 #Customer Performance
+
 #Category & Sub-Category Analysis
+
 #Monthly Profit Trends
+
 #Payment Mode Distribution
 
 The main objective of this project is to convert raw sales data into meaningful business insights using data modeling and DAX in Power BI.
@@ -83,5 +90,6 @@ DAX & Data Modeling knowledge
 📬 Connect With Me
 If you liked this project, feel free to connect with me on LinkedIn and share your feedback!
 chetan Auti
+
 
 
