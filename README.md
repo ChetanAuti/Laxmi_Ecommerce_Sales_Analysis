@@ -17,6 +17,7 @@ The dashboard provides interactive insights into:
 The main objective of this project is to convert raw sales data into meaningful business insights using data modeling and DAX in Power BI.
 
 
+
 📊 Dashboard Features
 🔢 KPI Cards
 
@@ -24,6 +25,7 @@ The main objective of this project is to convert raw sales data into meaningful 
 37K – Total Profit
 5615 – Total Quantity Sold
 121K – Average Order Value
+
 
 
 📈 Visualizations Used
@@ -35,12 +37,14 @@ The main objective of this project is to convert raw sales data into meaningful 
 ✔ Quantity by Payment Mode (Donut Chart)
 
 
+
 🎛 Interactive Elements
 
 Quarter Slicer (Q1, Q2, Q3, Q4)
 State Filter
 Cross Filtering between visuals
 Dynamic KPI updates
+
 
 
 📌 Key Business Insights
@@ -56,6 +60,7 @@ Printers are the most profitable sub-category
 Some months (May, July) show negative profit
 
 
+
 🛠 Skills & Tools Used
 
 Power BI
@@ -66,12 +71,20 @@ Interactive Dashboard Design
 Business Insight Generation
 
 
+
 📁 Files Included
 
 Laxmi_Ecommerce_Sales_Dashboard.pbix
 Orders.csv
 Details.csv
 Dashboard Screenshot
+
+
+
+📷 Dashboard Preview
+
+<img width="1267" height="696" alt="Laxmi_Sales_Dashborad_SS" src="https://github.com/user-attachments/assets/97013558-57b0-4215-ab33-d548d617d860" />
+
 
 
 🚀 How to Use
@@ -82,6 +95,7 @@ Dashboard Screenshot
 4.Analyze business insights
 
 
+
 💼 Project Purpose
 
 This project demonstrates:
@@ -90,8 +104,10 @@ Business understanding
 Dashboard designing skills
 DAX & Data Modeling knowledge
 
+
 📬 Connect With Me
 
 If you liked this project, feel free to connect with me on LinkedIn and share your feedback!
 
 chetan Auti
+
